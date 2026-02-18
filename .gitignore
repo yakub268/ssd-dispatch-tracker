@@ -1,0 +1,27 @@
+# Data
+badge_photos/
+*.db
+*.db-wal
+*.db-shm
+*.csv
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
